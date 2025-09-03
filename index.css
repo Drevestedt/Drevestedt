@@ -19,12 +19,12 @@ nav {
   color: #faf9f6;
 }
 
-h1 {
+nav h1 {
   font-size: 2.7em;
   margin: 0.5em 10em 0.5em 1em;
 }
 
-h1:hover {
+nav h1:hover {
   color: #ffd700;
 }
 
@@ -61,3 +61,6 @@ button:active {
 }
 
 /* Hero */
+#hero {
+  background-color: #5a189a;
+}
